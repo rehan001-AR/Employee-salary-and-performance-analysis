@@ -1,0 +1,15 @@
+No,Name,Age,Gender,Start Date,Salary,Team,Employee Performance,rating,Experience,Updated Salary,Risk
+1,Jason,34,Gender,1993-08-06,35760,Marketing,Good,8.5,32,50760,High risk
+2,Douglas,21,Male,1996-03-31,23500,Finance,Average,6.0,29,23500,High risk
+3,Thomas,59,Male,1993-04-23,21000,Finance,Average Below,4.5,32,24000,over spending
+4,Maria,45,Female,2005-03-04,45000,Client Services,high,9.0,20,55000,normal
+5,Jerry,37,Male,1998-01-24,67050,Legal,Good,8.5,27,77050,normal
+6,Larry,26,Male,1987-04-18,37900,Product,Good,8.5,38,52900,High risk
+7,Dennis,27,Male,1987-08-17,35800,Finance,Average,6.0,38,38800,normal
+8,Ruby,39,Female,2015-07-20,45000,Engineering,Average Below,4.5,10,45000,normal
+9,Angela,25,Female,2005-11-22,23060,Business Development,high,9.0,20,33060,High risk
+10,Frances,67,Female,2002-08-08,39080,Manager,Good,8.5,23,49080,High risk
+11,Louise,23,Female,1980-08-12,70900,Software Engineer,Good,8.5,45,85900,normal
+12,Julie,57,Female,1997-10-26,29208,Human Resources,Average,6.0,28,29208,High risk
+13,Brandon,34,Male,1980-12-01,45000,Product,Average Below,4.5,45,48000,normal
+14,Gary,45,Male,2008-01-27,24550,Client Services,high,9.0,17,32550,High risk
